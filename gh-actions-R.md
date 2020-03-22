@@ -1,5 +1,7 @@
 ## Tutorial for R Configuration (v0.0.1)
 
+0. make a coffee
+
 1. put additional \*.html files hosted like this: website.com/\*.html into the pkgdown/favicon folder
 
 2. put additional .png/.gif files used e.g. in `README.md` into the man/figures folder
@@ -28,7 +30,7 @@ section `Install dependencies>run`:
 section `on>push>branches`:
 - add branches/file extensions/folders that should trigger R-CMD-check
 - branches: `master`, `'dev-*'` , `'fix*'`, `'!python-*'`, `'!doc'` (not python, not doc)
-- paths: `'**.R'` (possible: `'**.py'`, `'**.js'`)
+- paths: `'**.R'`, `'DESCRIPTION'`, `'**.Rmd'` (possible: `'**.py'`, `'**.js'`)
 - A LOT of possibilities explained in detail [here](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions)
 
 section `jobs>R-CMD-check>strategy>matrix>config`:
@@ -48,9 +50,10 @@ misc/* linguist-documentation
 pkgdown/* linguist-documentation
 ```
 
-9. (optional) put `CONTRIBUTING.md` into the .github folder
+9. (optional) put `CONTRIBUTING.md` into the `.github` folder
 
 10. (optional) in `README.md` R CHECK badge add `?query=workflow%3AR-CMD-check` to the second link
+
 (link to `Actions>R-CMD-check` not `Actions`)
 
 ## After push:
