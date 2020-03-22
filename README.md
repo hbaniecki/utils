@@ -1,8 +1,10 @@
 # gh-actions
  Configure GitHub Actions for R and Python
 
-https://github.com/r-lib/usethis
-https://github.com/maxheld83/ghactions
+# GitHub Actions
+- [push-pull configuration](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions)
 
-[push-pull configuration](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions)
-https://github.com/r-lib/pkgdown
+## R
+- https://github.com/r-lib/usethis
+- https://github.com/maxheld83/ghactions
+- https://github.com/r-lib/pkgdown
