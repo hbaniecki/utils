@@ -52,3 +52,7 @@ pkgdown/* linguist-documentation
 
 10. (optional) in `README.md` R CHECK badge add `?query=workflow%3AR-CMD-check` to the second link
 (link to `Actions>R-CMD-check` not `Actions`)
+
+## After push:
+
+Change the GitHub Pages website location in repository settings to `gh-pages` branch.
