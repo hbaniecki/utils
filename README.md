@@ -43,3 +43,20 @@ my notes with useful packages, resources and functions
 - parallel https://github.com/HenrikBengtsson/future
 - vi https://github.com/koalaverse/vip
 - ? https://github.com/stephenslab/mashr
+
+## python
+
+### ml
+
+- reinforcement https://github.com/thu-ml/tianshou
+- outlier https://github.com/SeldonIO/alibi-detect
+
+### vis
+
+- simple? https://github.com/altair-viz/altair
+
+### xai
+
+- attack https://github.com/thisisalirah/GeoDA
+- oracle https://github.com/oracle/Skater
+- fair https://github.com/fairlearn/fairlearn
