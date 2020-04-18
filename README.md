@@ -1,15 +1,44 @@
-# gh-actions
- Configure GitHub Actions for R and Python
+# utils
 
-## GitHub Actions
-- [push-pull configuration](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions)
+my notes with useful packages, resources and functions
 
-## R
-- https://github.com/r-lib/usethis
-- https://github.com/maxheld83/ghactions
-- https://github.com/r-lib/pkgdown
-- https://github.com/r-lib/remotes
-- https://github.com/r-lib/actions
+## r
 
-## Python
--
+### ml
+
+- imputation https://github.com/stefvanbuuren/mice
+- autoxgb https://github.com/ja-thomas/autoxgboost
+- lm https://github.com/easystats/insight
+- r6 https://github.com/mlr-org/mlr3
+- [auprc](https://stats.stackexchange.com/questions/10501/calculating-aupr-in-r)
+
+### data
+
+- fast https://github.com/tidyverse/dtplyr
+- factor https://github.com/tidyverse/forcats
+
+### vis
+
+- stats https://github.com/IndrajeetPatil/ggstatsplot
+- social https://github.com/strengejacke/sjPlot
+- halfgeom https://github.com/erocoar/gghalves
+
+### eda
+
+- start https://github.com/boxuancui/DataExplorer
+- shiny https://github.com/joachim-gassen/ExPanDaR
+- vis_binary https://github.com/ropensci/visdat
+
+### dev
+
+- style https://github.com/r-lib/styler
+- style2 https://github.com/jimhester/lintr
+- check https://github.com/mllg/checkmate
+- shiny https://github.com/ThinkR-open/golem
+
+### other
+
+- anomaly https://github.com/pridiltal/stray
+- parallel https://github.com/HenrikBengtsson/future
+- vi https://github.com/koalaverse/vip
+- ? https://github.com/stephenslab/mashr
