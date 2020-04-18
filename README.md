@@ -51,12 +51,12 @@ my notes with useful packages, resources and functions
 - reinforcement https://github.com/thu-ml/tianshou
 - outlier https://github.com/SeldonIO/alibi-detect
 
-### vis
-
-- simple? https://github.com/altair-viz/altair
-
 ### xai
 
 - attack https://github.com/thisisalirah/GeoDA
 - oracle https://github.com/oracle/Skater
 - fair https://github.com/fairlearn/fairlearn
+
+### vis
+
+- simple? https://github.com/altair-viz/altair
