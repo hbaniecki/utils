@@ -16,8 +16,8 @@
 
 | label name | description | color |
 |---|---|---|
-| R | Related to R | #4177be |
-| Python | Related to Python | #4177be |
+| R :whale: | Related to R | #ceced9 |
+| Python :snake: | Related to Python | #ceced9 |
 
 
 Notes:
