@@ -8,6 +8,7 @@
 | feature :bulb: | New feature or enhancement request | #8bdcbe |
 | invalid :grey_exclamation: | This doesn't seem right | #ffa58c |
 | long term :calendar: | TODO long term | #ceced9 |
+| maintenance :hammer: | Code enhancements, tests and maintenance | #8bdcbe |
 | question :grey_question: | Further information is requested | #ffa58c |
 | short term :alarm_clock: | TODO short term | #ceced9 |
 | wontfix | This will not be worked on | #000000 |
