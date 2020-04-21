@@ -16,11 +16,11 @@
 
 | label name | description | color |
 |---|---|---|
-| R | Related to R | #2B76CC |
-| Python | Related to Python | #3572A5 |
+| R | Related to R | #4177be |
+| Python | Related to Python | #4177be |
 
 
 Notes:
 - these labels should be both lowercase or both uppercase to render next to each other
 - uppercase moves these labels to the front of the issue
-- Python color is its github color, R is a darker RStudio color (default was too bright for white text in label)
+- github colors look bad {python: #3572A5, R: #198ce7}, two different colors also look bad
