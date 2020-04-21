@@ -22,6 +22,5 @@
 
 
 Notes:
-- these labels should be both lowercase or both uppercase to render next to each other
-- uppercase moves these labels to the front of the issue
+- the order of issue labels is chronological (different for each issue)
 - github colors look bad {python: #3572A5, R: #198ce7}, two different colors also look bad
