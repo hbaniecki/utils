@@ -16,5 +16,5 @@
 
 | label name | description | color |
 |---|---|---|
-| R | R |  |
-| Python |  |  |
+| r | Related to R | #196ce7 |
+| python | Related to Python | #3572A5 |
