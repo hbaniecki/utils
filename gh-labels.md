@@ -10,7 +10,7 @@
 | long term :calendar: | TODO long term | #ceced9 |
 | question :grey_question: | Further information is requested | #ffa58c |
 | short term :alarm_clock: | TODO short term | #ceced9 |
-| wontfix | This will not be worked on | #000000 | 
+| wontfix | This will not be worked on | #000000 |
 
 ## additional
 
