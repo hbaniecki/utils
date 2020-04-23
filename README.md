@@ -43,6 +43,7 @@ my notes with useful packages, resources and functions
 
 - anomaly https://github.com/pridiltal/stray
 - parallel https://github.com/HenrikBengtsson/future
+- future_map https://davisvaughan.github.io/furrr/ 
 - vi https://github.com/koalaverse/vip
 - ? https://github.com/stephenslab/mashr
 
