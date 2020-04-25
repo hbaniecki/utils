@@ -29,7 +29,7 @@ my notes with useful packages, resources and functions
 ### eda
 
 - start https://github.com/boxuancui/DataExplorer
-- shiny https://github.com/joachim-gassen/ExPanDaR
+- dashboard https://github.com/joachim-gassen/ExPanDaR
 - vis_binary https://github.com/ropensci/visdat
 
 ### dev
@@ -37,15 +37,15 @@ my notes with useful packages, resources and functions
 - style https://github.com/r-lib/styler
 - style2 https://github.com/jimhester/lintr
 - check https://github.com/mllg/checkmate
-- shiny https://github.com/ThinkR-open/golem
 
 ### other
 
 - anomaly https://github.com/pridiltal/stray
 - parallel https://github.com/HenrikBengtsson/future
-- future_map https://davisvaughan.github.io/furrr/ 
+- future_map https://davisvaughan.github.io/furrr/
 - vi https://github.com/koalaverse/vip
 - ? https://github.com/stephenslab/mashr
+- shiny https://github.com/michbur/quick-shiny-intro
 
 ## python
 
