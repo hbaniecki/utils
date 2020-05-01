@@ -15,6 +15,10 @@ my notes with useful packages, resources and functions
 - pipeline https://tidymodels.github.io/workflows/
 - traintest https://tidymodels.github.io/rsample/
 
+### xai
+
+- vi https://github.com/koalaverse/vip
+
 ### data
 
 - fast https://github.com/tidyverse/dtplyr
@@ -25,6 +29,7 @@ my notes with useful packages, resources and functions
 - stats https://github.com/IndrajeetPatil/ggstatsplot
 - social https://github.com/strengejacke/sjPlot
 - halfgeom https://github.com/erocoar/gghalves
+- facet https://github.com/thomasp85/patchwork
 
 ### eda
 
@@ -40,10 +45,10 @@ my notes with useful packages, resources and functions
 
 ### other
 
+- dependencies https://github.com/DominikRafacz/deepdep
 - anomaly https://github.com/pridiltal/stray
 - parallel https://github.com/HenrikBengtsson/future
 - future_map https://davisvaughan.github.io/furrr/
-- vi https://github.com/koalaverse/vip
 - ? https://github.com/stephenslab/mashr
 - shiny https://github.com/michbur/quick-shiny-intro
 
