@@ -59,6 +59,7 @@ my notes with useful packages, resources and functions
 - reinforcement https://github.com/thu-ml/tianshou
 - outlier https://github.com/SeldonIO/alibi-detect
 - evolutionary https://github.com/DEAP/deap
+- correlation+ https://github.com/8080labs/ppscore
 
 ### xai
 
