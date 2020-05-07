@@ -13,7 +13,8 @@ my notes with useful packages, resources and functions
 - r6 https://github.com/mlr-org/mlr3
 - [auprc](https://stats.stackexchange.com/questions/10501/calculating-aupr-in-r)
 - pipeline https://tidymodels.github.io/workflows/
-- traintest https://tidymodels.github.io/rsample/
+- traintest https://github.com/mayer79/splitTools
+- cv5 https://tidymodels.github.io/rsample/
 
 ### xai
 
