@@ -9,21 +9,21 @@ Configure GitHub Actions for R
 - https://github.com/r-lib/remotes
 - https://github.com/r-lib/actions
 
-## Tutorial for R Configuration (v0.0.1)
+## Tutorial for R Configuration (v0.0.2)
 
 0. make a coffee
 
-1. put additional \*.html files hosted like this: website.com/\*.html into the pkgdown/favicon folder
-
-2. put additional .png/.gif files used e.g. in `README.md` into the man/figures folder
+1. put additional *.png/.gif* files used e.g. in `README.md` into the `man/figures` folder
 
 (fix path in `README.md` `images/*.png -> man/figures/*.png`)
+
+2. if hosting any additional *\*.html* files like this: *website.com/\*.html* put them into the `pkgdown/favicon` folder
 
 3. remove docs and images folders
 
 4. in project root use:
 ```
-devtools::install_github("r-lib/usethis")
+install.packages("usethis")
 usethis::use_tidy_github_actions()
 ```
 
