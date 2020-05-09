@@ -9,13 +9,13 @@ Configure GitHub Actions for R
 - https://github.com/r-lib/remotes
 - https://github.com/r-lib/actions
 
-## Tutorial for R Configuration (v0.0.2)
+## Tutorial for R Configuration (v0.0.3)
 
 0. make a coffee
 
 1. put additional *.png/.gif* files used e.g. in `README.md` into the `man/figures` folder
-
-(fix path in `README.md` `images/*.png -> man/figures/*.png`)
+- remove `man/figures` from `.rbuildignore` 
+- fix path in `README.md` `images/*.png -> man/figures/*.png`
 
 2. if hosting any additional *\*.html* files like this: *website.com/\*.html* put them into the `pkgdown/favicon` folder
 
