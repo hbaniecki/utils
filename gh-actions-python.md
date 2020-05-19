@@ -2,10 +2,12 @@
 
 Configure GitHub Actions for Python
 
-- https://github.com/ymyzk/tox-gh-actions
-- https://tox.readthedocs.io/en/latest/index.html
+- tutorial: https://github.com/ymyzk/tox-gh-actions
+- config docs: https://tox.readthedocs.io/en/latest/index.html
 
 ## Python Configuration (v0.0.1)
+
+More complicated example on [`dalex`](https://github.com/ModelOriented/DALEX) use case:
 
 - `.github/workflows/Python-check.yaml`
 
