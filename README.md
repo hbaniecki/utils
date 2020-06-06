@@ -24,6 +24,7 @@ my notes with useful packages, resources and functions
 
 - fast https://github.com/tidyverse/dtplyr
 - factor https://github.com/tidyverse/forcats
+- revalue https://github.com/hadley/plyr
 
 ### vis
 
