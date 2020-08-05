@@ -15,6 +15,7 @@ my notes with useful packages, resources and functions
 - pipeline https://tidymodels.github.io/workflows/
 - traintest https://github.com/mayer79/splitTools
 - cv5 https://tidymodels.github.io/rsample/
+- tree https://github.com/trang1618/treeheatr
 
 ### xai
 
