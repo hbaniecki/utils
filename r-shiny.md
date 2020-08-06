@@ -1,4 +1,8 @@
-kudos to [@michbur](https://github.com/michbur)
+https://mastering-shiny.org/
+
+--------------------------------------
+
+kudos to [@michbur](https://github.com/michbur) :
 
 ## shiny tools
 
