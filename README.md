@@ -45,6 +45,7 @@ my notes with useful packages, resources and functions
 - style https://github.com/r-lib/styler
 - style2 https://github.com/jimhester/lintr
 - check https://github.com/mllg/checkmate
+- deprecated https://github.com/r-lib/lifecycle
 
 ### other
 
