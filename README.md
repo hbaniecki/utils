@@ -16,6 +16,7 @@ my notes with useful packages, resources and functions
 - traintest https://github.com/mayer79/splitTools
 - cv5 https://tidymodels.github.io/rsample/
 - tree https://github.com/trang1618/treeheatr
+- cvi https://github.com/maju116/platypus
 
 ### xai
 
