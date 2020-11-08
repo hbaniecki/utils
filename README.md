@@ -2,7 +2,17 @@
 
 my notes with useful packages, resources and functions
 
+<table border="0">
+  <tr><td> 
+
 ## r
+
+ </td><td> 
+
+## python 
+
+  </td></tr>
+  <tr><td>
 
 ### ml
 
@@ -19,16 +29,36 @@ my notes with useful packages, resources and functions
 - cvi https://github.com/maju116/platypus
 - torchvision https://github.com/mlverse/torchvision
 
+  </td><td>
+
+### ml
+
+- reinforcement https://github.com/thu-ml/tianshou
+- outlier https://github.com/SeldonIO/alibi-detect
+- evolutionary https://github.com/DEAP/deap
+- correlation+ https://github.com/8080labs/ppscore
+- tinygrad https://github.com/geohot/tinygrad
+- useful+ https://github.com/rasbt/mlxtend
+- lazypredict https://github.com/shankarpandala/lazypredict
+
+  </td></tr>
+  <tr><td>
+
 ### xai
 
 - vi https://github.com/koalaverse/vip
 - flashlight https://github.com/mayer79/flashlight
 
-### data
+  </td><td>
 
-- fast https://github.com/tidyverse/dtplyr
-- factor https://github.com/tidyverse/forcats
-- revalue https://github.com/hadley/plyr
+### xai
+
+- attack https://github.com/thisisalirah/GeoDA
+- oracle https://github.com/oracle/Skater
+- fair https://github.com/fairlearn/fairlearn
+
+  </td></tr>
+  <tr><td>
 
 ### vis
 
@@ -37,6 +67,41 @@ my notes with useful packages, resources and functions
 - halfgeom https://github.com/erocoar/gghalves
 - facet https://github.com/thomasp85/patchwork
 - palette https://github.com/gadenbuie/ggpomological
+
+  </td><td>
+
+### vis
+
+- simple? https://github.com/altair-viz/altair
+
+  </td></tr>
+  <tr><td>
+
+### other
+
+- dependencies https://github.com/DominikRafacz/deepdep
+- anomaly https://github.com/pridiltal/stray
+- parallel https://github.com/HenrikBengtsson/future
+- future_map https://davisvaughan.github.io/furrr/
+- ? https://github.com/stephenslab/mashr
+- shiny https://github.com/michbur/quick-shiny-intro
+- rust https://github.com/extendr/extendr
+- dplyr-lite https://github.com/nathaneastwood/poorman
+
+  </td><td>
+
+### other 
+
+- rust https://github.com/PyO3/pyo3
+
+  </td></tr>
+  <tr><td>  
+
+### data
+
+- fast https://github.com/tidyverse/dtplyr
+- factor https://github.com/tidyverse/forcats
+- revalue https://github.com/hadley/plyr
 
 ### eda
 
@@ -52,39 +117,6 @@ my notes with useful packages, resources and functions
 - deprecated https://github.com/r-lib/lifecycle
 - diagram https://github.com/moodymudskipper/flow
 
-### other
+  </td></tr>
 
-- dependencies https://github.com/DominikRafacz/deepdep
-- anomaly https://github.com/pridiltal/stray
-- parallel https://github.com/HenrikBengtsson/future
-- future_map https://davisvaughan.github.io/furrr/
-- ? https://github.com/stephenslab/mashr
-- shiny https://github.com/michbur/quick-shiny-intro
-- rust https://github.com/extendr/extendr
-- dplyr-lite https://github.com/nathaneastwood/poorman
-
-## python
-
-### ml
-
-- reinforcement https://github.com/thu-ml/tianshou
-- outlier https://github.com/SeldonIO/alibi-detect
-- evolutionary https://github.com/DEAP/deap
-- correlation+ https://github.com/8080labs/ppscore
-- tinygrad https://github.com/geohot/tinygrad
-- useful+ https://github.com/rasbt/mlxtend
-- lazypredict https://github.com/shankarpandala/lazypredict
-
-### xai
-
-- attack https://github.com/thisisalirah/GeoDA
-- oracle https://github.com/oracle/Skater
-- fair https://github.com/fairlearn/fairlearn
-
-### vis
-
-- simple? https://github.com/altair-viz/altair
-
-### other 
-
-- rust https://github.com/PyO3/pyo3
+</table>
