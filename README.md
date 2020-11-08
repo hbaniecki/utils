@@ -17,10 +17,12 @@ my notes with useful packages, resources and functions
 - cv5 https://tidymodels.github.io/rsample/
 - tree https://github.com/trang1618/treeheatr
 - cvi https://github.com/maju116/platypus
+- torchvision https://github.com/mlverse/torchvision
 
 ### xai
 
 - vi https://github.com/koalaverse/vip
+- flashlight https://github.com/mayer79/flashlight
 
 ### data
 
@@ -34,6 +36,7 @@ my notes with useful packages, resources and functions
 - social https://github.com/strengejacke/sjPlot
 - halfgeom https://github.com/erocoar/gghalves
 - facet https://github.com/thomasp85/patchwork
+- palette https://github.com/gadenbuie/ggpomological
 
 ### eda
 
@@ -47,6 +50,7 @@ my notes with useful packages, resources and functions
 - style2 https://github.com/jimhester/lintr
 - check https://github.com/mllg/checkmate
 - deprecated https://github.com/r-lib/lifecycle
+- diagram https://github.com/moodymudskipper/flow
 
 ### other
 
@@ -56,6 +60,8 @@ my notes with useful packages, resources and functions
 - future_map https://davisvaughan.github.io/furrr/
 - ? https://github.com/stephenslab/mashr
 - shiny https://github.com/michbur/quick-shiny-intro
+- rust https://github.com/extendr/extendr
+- dplyr-lite https://github.com/nathaneastwood/poorman
 
 ## python
 
@@ -65,6 +71,9 @@ my notes with useful packages, resources and functions
 - outlier https://github.com/SeldonIO/alibi-detect
 - evolutionary https://github.com/DEAP/deap
 - correlation+ https://github.com/8080labs/ppscore
+- tinygrad https://github.com/geohot/tinygrad
+- useful+ https://github.com/rasbt/mlxtend
+- lazypredict https://github.com/shankarpandala/lazypredict
 
 ### xai
 
@@ -75,3 +84,7 @@ my notes with useful packages, resources and functions
 ### vis
 
 - simple? https://github.com/altair-viz/altair
+
+### other 
+
+- rust https://github.com/PyO3/pyo3
