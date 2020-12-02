@@ -15,3 +15,9 @@ https://medium.com/@vladbezden/using-python-unittest-in-ipython-or-jupyter-73244
 if __name__ == '__main__':
     unittest.main(argv=['first-arg-is-ignored'], exit=False)
 ```
+
+### convert to classic html
+
+```bash
+jupyter nbconvert --to=html --template=classic NAME.ipynb
+```
